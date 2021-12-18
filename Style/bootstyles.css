@@ -1,0 +1,127 @@
+.silly-title{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    }
+
+header.masthead {
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(8rem + 57px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.tabbb{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: white;
+    background-color: rgb(206, 209, 209);
+    text-align: center;
+    text-align: top;
+}
+h1{
+    color: rgb(39, 35, 35);
+}
+li{
+    font-size: 16px;
+    font-style: italic;
+    font-weight: normal;
+}
+a{
+    color: white;
+
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style:normal;
+}
+
+.tabbb{
+font-size: 0.75rem;
+font-weight: 800;
+letter-spacing: 0.0625em;
+text-transform: uppercase;
+flex: 1 1 auto;
+text-align: center
+}
+
+.snapp{
+position: fixed;
+top: -83px;
+transition: transform 0.2s;
+border-bottom: 1px solid white;
+background-color: rgba(255, 255, 255, 0.9);
+}
+
+style
+*{
+    margin:0px;
+}
+.wrap{ 
+    width:80%;       
+    margin:auto;    
+}
+.header{
+    padding:10px;
+}
+.nav{
+    height:50px;
+    font-size: medium;
+}
+.aside{
+    width:25%;   
+    float:left;
+}
+.section{
+    width:75%;   
+    float:left;
+}
+.footer{
+	padding:10px;
+    font-size: small;
+    font-style: italic;
+    color:rgb(150, 144, 144)
+}
+.clear{
+	clear:both;
+}
+
+.graph3{
+height: 10%;
+width: 10%;
+}
+
+.graph2{
+height:70%;
+width:50%;
+}
+
+.graph1{
+height:40%;
+width:40%;
+}
+
+.graph4{
+height:40%;
+width:40%;
+}
+
+.imagefont{
+font-size: small;
+}
+
+.Graphsize{
+height: 10%;
+width: 10%;
+}
